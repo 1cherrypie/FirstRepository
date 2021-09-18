@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Театрал</title>
+		
+		<link rel="stylesheet" type="text/css" href="css_style.css">
+	</head>
+	<body>
+	<div class="header">
+	<h3>Шапка сайта</h3>
+	<div class="auth_block">
+		<div class="link_register">
+		<a href="form_register.php">Регистрация</a>
+		</div>
+		<div class="link_auth">
+		<a href="form_auth.php">Авторизация</a>
+		</div>
+		</div>
+		<div class="clear"></div>
+		</div>
+		<div class="content">
+		<h3 class="theaters-title1">Заголовок</h3>
+		<p class="paragraph">Текст приветствия</p>
+		<br>
+		<div class="footer">
+		<h3>Подвал сайта</h3>
+		</div>
+	</body>
+</html>
