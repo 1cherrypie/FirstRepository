@@ -22,6 +22,7 @@
 		<div class="content">
 		<h3 class="theaters-title1">Заголовок</h3>
 		<p class="paragraph">Текст приветствия</p>
+		<p class="paragraph">Еще текст, пусть будет про пиццу :)</p>
 		<br>
 		<div class="footer">
 		<h3>Подвал сайта</h3>
